@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wisata Lampung</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_user">user</string>
+    <string name="nama_wisata">Nama Wisata</string>
+    <string name="detail">detail</string>
+    <string name="judul_wisata">Judul Wisata</string>
+    <string name="detail_wisata">Detail Wisata</string>
+    <string name="my_Name">Ade Setiawan</string>
+    <string name="gmail">adesetiawan0675@gmail.com</string>
+</resources>
